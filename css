@@ -1,0 +1,12 @@
+h1 {
+  font-size: 40px;
+  letter-spacing: 10px;
+  color: rgb(138, 193, 202);
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 10px 30px;
+}
